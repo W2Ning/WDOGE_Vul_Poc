@@ -3,7 +3,7 @@ WDOGE的交易对 被薅羊毛的攻击复现
 
 
 ```
-git clone https://github.com/W2Ning/WDOGE_Vul_Poc.git  && cd cd WDOGE_Vul_Poc
+git clone https://github.com/W2Ning/WDOGE_Vul_Poc.git  && cd WDOGE_Vul_Poc
 ```
 
 
